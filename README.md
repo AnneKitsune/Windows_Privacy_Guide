@@ -42,16 +42,17 @@
    - Open KeePassXC → Click "Create New Database"
    - Name your database (e.g., "My Passwords")
    - Set MASTER PASSWORD (remember this!):
-     • Use a memorable and funny sentence, for example: `The loliPOPS love jumping 5 fences!`
-     • This will be your ONLY essential password
+       1. Use a memorable and funny sentence, for example: `The loliPOPS love jumping 5 fences!`
+       2. This will be your ONLY essential password
    - Save database in easy location (e.g., Desktop)
    - Add logins: Click `+` button to save new entries
 
 ## Step 4: Adjust Privacy Settings
 1. Open Settings:
    - Press Windows key → Type `settings` → Enter
+2. Search for `privacy`
     ![Windows Settings UI](pics/settings_1.png)
-2. Disable tracking:
+3. Disable tracking:
    - Go to "Privacy & security" → "General"
      → Toggle OFF all options
     ![Windows Settings UI](pics/settings_2.png)
